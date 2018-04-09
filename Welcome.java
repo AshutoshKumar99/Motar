@@ -1,5 +1,15 @@
 class Welcome
 {
+	
+	static
+	{
+		
+		System.out.println("This is my static block");
+		
+		
+	 }
+	
+	
 public static void main(String args[])
 {
 System.out.println("Hey there,I am using Git");
