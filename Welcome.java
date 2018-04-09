@@ -17,6 +17,10 @@ while(i<=10)
 }
 
 
+String a="Welcome",b="2018";
+String c=a+b;
+System.out.println("concatenation of string is="+(a+b));
+
 
 
 
